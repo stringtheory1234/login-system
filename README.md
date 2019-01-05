@@ -12,6 +12,7 @@ https://www.wikihow.com/Install-XAMPP-for-Windows
 3)	Open the Xampp Control Panel and start Apache and MySQL and then the chat App would be working.
 4)	Please remember to put your folder containing all the files in the htdocs folder in Xampp in C drive.
 5)	Open the project in localhost.
+
 How I made the project:
 1)	First I made a basic layout of the sign-up and login page with a basic HTML and CSS layout.
 2)	I created a database(test) in phpMyAdmin and then created a table named as ‘users’.
