@@ -8,7 +8,7 @@ You can send and receive messages by this app. This allows all registered users 
 Build Instructions:
 1)	Install Xampp by following the given link:
 https://www.wikihow.com/Install-XAMPP-for-Windows
-2)	Create a database in phpMyAdmin by following the code in dump.sql file attached to the project.
+2)	Create a database in phpMyAdmin by following the code in dump.sql and test.sql file attached to the project.
 3)	Open the Xampp Control Panel and start Apache and MySQL and then the chat App would be working.
 4)	Please remember to put your folder containing all the files in the htdocs folder in Xampp in C drive.
 5)	Open the project in localhost.
