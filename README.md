@@ -25,9 +25,32 @@ How I made the project:
 Screen-shots of the project :
  
 
+
+![Screenshot](screenshot1.png)
+
+
+
+
+![Screenshot](screenshot2.png)
+
+
+
+
+![Screenshot](screenshot3.png)
+
+
  
  
 Added a new message:--
+
+
+
+
+![Screenshot](screenshot4.png)
+
+
+
+
  
 
 
